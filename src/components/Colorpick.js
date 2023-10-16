@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import 'C:/xampp/htdocs/MERN/node/task3/src/components/styles.css';
+import '../styles.css';
 
 class Colorpick extends Component {
   constructor(props) {
