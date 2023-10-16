@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import '../styles.css';
+import './styles.css';
 
 class Colorpick extends Component {
   constructor(props) {
